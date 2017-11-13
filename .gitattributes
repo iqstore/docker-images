@@ -24,3 +24,9 @@
 /ubuntu-oracle/Dockerfile filter=lfs diff=lfs merge=lfs -text
 /ubuntu-oracle/makefile filter=lfs diff=lfs merge=lfs -text
 /ubuntu-oracle/locale filter=lfs diff=lfs merge=lfs -text
+/golang-oracle/instantclient_12_2/BASIC_README filter=lfs diff=lfs merge=lfs -text
+/golang-oracle/instantclient_12_2/adrci filter=lfs diff=lfs merge=lfs -text
+/golang-oracle/instantclient_12_2/genezi filter=lfs diff=lfs merge=lfs -text
+/golang-oracle/instantclient_12_2/sdk/SDK_README filter=lfs diff=lfs merge=lfs -text
+/golang-oracle/instantclient_12_2/sdk/ott filter=lfs diff=lfs merge=lfs -text
+/golang-oracle/instantclient_12_2/uidrvci filter=lfs diff=lfs merge=lfs -text
